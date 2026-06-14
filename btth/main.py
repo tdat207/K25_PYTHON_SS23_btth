@@ -9,7 +9,7 @@ attendance_book = [
 ]
 
 while True:
-    print("\n=== HỆ THỐNG CHẤM CÔNG RIKKEI (FLEX-TIME) ===")
+    print("=== HỆ THỐNG CHẤM CÔNG  ===")
     print("1. Xem bảng chấm công ngày")
     print("2. Chấm công Vào (Clock-in)")
     print("3. Chấm công Ra (Clock-out)")
